@@ -7,7 +7,7 @@ Supports images, audio and video embeddings, and Leaflet TileLayer/geojson overl
 </p>
 
 ## Live links (replace with your own)
-- Leaflet Map 
+- Leaflet Map https://kiamiam.github.io/cokolwiek/
 - Google Sheets template https://docs.google.com/spreadsheets/d/1RGTNKQHIAUoRAjB_3xgtTUKrJVkf1QG8-t-PKwUwHKs/edit#gid=0
 
 ## Create Your Own
